@@ -3,10 +3,10 @@
 A simple implementation of the once-popular 2048 puzzle game, as part of a student project, written in JAVA
 
 # GAME
-The game is fully functional, type "_" to start a new game, directional arrows to play, "_" again to start a new game.
+The game is fully functional, type "underscore" to start a new game, directional arrows to play, "underscore" again to start a new game.
 
 # IA
-Launch and exit the IA at any time using the SPACE bar
+Launch and exit the IA at any time using the SPACE bar.
 The IA is based on a modified expected-max algorithm.
 
 ## Score
